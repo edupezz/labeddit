@@ -40,5 +40,5 @@ Material usado no projeto:
  
 
 ## Contato:
-<Eduardo Pezzi>
-<edupezz@gmail.com>
+Eduardo Pezzi
+edupezz@gmail.com
